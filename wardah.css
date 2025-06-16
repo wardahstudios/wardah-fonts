@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Lateef';
+  src: url('Lateef-ExtraLight.ttf') format('truetype');
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: 'Lateef';
+  src: url('Lateef-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: 'Outfit';
+  src: url('Outfit-ExtraLight.ttf') format('truetype');
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: 'Playfair Display';
+  src: url('PlayfairDisplay-Regular.ttf') format('truetype');
+  font-weight: 400;
+}
